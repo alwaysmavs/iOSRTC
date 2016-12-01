@@ -1,6 +1,6 @@
 # Summary
 
-* [1 PLMediaStreamingKit 简介](README.md)
+* [1 PLRTCStreamingKit 简介](README.md)
   * [1.1 功能特性](1 概述/1.1 功能特性.md)
   * [1.2 开发准备](1 概述/1.2 开发准备.md)
 * [2 方案设计](2 方案设计/README.md)
